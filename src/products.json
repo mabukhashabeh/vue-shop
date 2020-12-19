@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Hat",
-    "image": "http://via.placeholder.com/640x360",
+    "image": "https://loremflickr.com/640/360",
     "price": "375.30"
   },
   {
@@ -14,7 +14,7 @@
   {
     "id": 3,
     "title": "Glass",
-    "image": "https://www.fillmurray.com/640/360",
+    "image": "https://loremflickr.com/640/360",
     "price": "375.30"
   }
 ]
