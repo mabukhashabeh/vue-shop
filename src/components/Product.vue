@@ -1,5 +1,5 @@
 <template>
-    <div class="card m-3 text-center" style="width: 18rem;">
+    <div class="card mx-3 text-center" style="width: 18rem;">
         <img class="card-img-top" :src="product.image" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">{{ product.title }}</h5>

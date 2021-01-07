@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class="row">
+        <div class="row mt-5">
             <div class="col-7 my-3">
                 <div class="row">
                     <div :key="product.id" class="col-6" v-for="product in products">
